@@ -2,9 +2,7 @@
 
 ## 📘 Project Overview
 
-Inventory & Supply Chain Management Analytics is a complete end-to-end data analytics solution designed to monitor operational efficiency, optimize inventory levels, reduce logistics costs, and improve fulfillment performance.
-
-This project demonstrates the full analytics lifecycle — from raw structured data extraction using SQL, to advanced exploratory data analysis (EDA) in Python, and finally executive-level KPI reporting using Power BI with dynamic measures.
+Inventory & Supply Chain Management Analytics is a complete end-to-end data analytics solution designed to monitor operational efficiency, optimize inventory levels, reduce logistics costs, and improve fulfillment performance.This project demonstrates the full analytics lifecycle — from raw structured data extraction using SQL, to advanced exploratory data analysis (EDA) in Python, and finally executive-level KPI reporting using Power BI with dynamic measures.
 
 The dashboard enables data-driven operational decisions by analyzing:
 
